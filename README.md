@@ -1,2 +1,3 @@
 # hello-world
 This is my hello world project.
+Of all programming languages I have had experience with, my preference is Java. Java sounds like Jaffa, and I do like Jaffa lollies and Jaffa cake. What is there not to like about the mixture of orange and chocolate! Damn, now when I code I am going to get hungry, probably should not have made that link...
